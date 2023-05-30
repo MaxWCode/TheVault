@@ -1,7 +1,7 @@
 databases:
   - name: vaultDatabase
-    databaseName: vaultDatabase
-    user: vaultDatabase
+    databaseName: mysite
+    user: mysite
 
 services:
   - type: web
